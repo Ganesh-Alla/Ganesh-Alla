@@ -1,7 +1,7 @@
 <!-- Modern GitHub Profile README for Ganesh Alla -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7EF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Ganesh+Alla;Full+Stack+%26+Android+Developer;AI+%2F+ML+Enthusiast;Always+Exploring+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F87B1B&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Ganesh+Alla;Full+Stack+%26+Android+Developer;AI+%2F+ML+Enthusiast;Always+Exploring+New+Tech!" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ I love exploring **AI-powered applications**, merging **machine learning** with 
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,nodejs,express,typescript,javascript,tailwind,mongodb,postgres,mysql,prisma,docker,git,linux,python,java,androidstudio,firebase,supabase,vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,javascript,tailwind,mongodb,postgres,mysql,prisma,docker,git,linux,python,java,androidstudio,firebase,supabase,vercel" />
 </p>
 
 ---
