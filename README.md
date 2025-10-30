@@ -1,27 +1,86 @@
-<h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center">A passionate full stack and android developer from India</h3>
+<!-- Modern GitHub Profile README for Ganesh Alla -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh-alla&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-alla" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesh-alla" alt="ganesh-alla" /></a> </p>
-
-- 🌱 I’m currently learning **T3 Stack**
-
-- 💬 Ask me about **MERN,NextJs**
-
-- 📫 How to reach me **allaganesh225@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ganeshalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-alla" height="30" width="40" /></a>
-<a href="https://instagram.com/_ganeshalla_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh_alla" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7EF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Ganesh+Alla;Full+Stack+%26+Android+Developer;AI+%2F+ML+Enthusiast;Always+Exploring+New+Tech!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh-alla&show_icons=true&locale=en&layout=compact" alt="ganesh-alla" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-alla&" alt="ganesh-alla" /></p>
+I'm **Ganesh Alla**, a passionate **Full Stack & Android Developer** from 🇮🇳 India, dedicated to building scalable, secure, and intelligent digital solutions.  
+I love exploring **AI-powered applications**, merging **machine learning** with real-world systems.
 
+💡 Previously worked at a **startup called Lesearch**, where I built an **AI Document Research Assistant** — a Next.js + Supabase based app that helps users analyze research papers and explore citation networks with ease.  
 
+🚀 Currently exploring **Mobile development, AI Agents**, and **advanced web architectures**.
+
+📫 **Reach me at:** [allaganesh225@gmail.com](mailto:allaganesh225@gmail.com)  
+🌐 **Portfolio:** [ganeshalla.vercel.app](https://ganeshalla.vercel.app)
+
+---
+
+### 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ganeshalla/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://instagram.com/_ganeshalla_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  <a href="mailto:allaganesh225@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+</p>
+
+---
+
+### 🧠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,nodejs,express,typescript,javascript,tailwind,mongodb,postgres,mysql,prisma,docker,git,linux,python,java,androidstudio,firebase,supabase,vercel" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+#### 🔹 [LeSearch](https://github.com/ganesh-alla/lesearch)
+> AI-powered Document Research Assistant — built with Next.js 15, Supabase, and Vercel AI SDK. It helps users analyze research papers, visualize citation trees, and generate summaries.
+
+#### 🔹 [CryptoGuard](https://github.com/ganesh-alla/cryptoguard)
+> A secure mobile app leveraging AES and RSA encryption for protecting sensitive data.
+
+#### 🔹 [Eazy Letter](https://github.com/ganesh-alla/eazy-letter)
+> A digital letter management system streamlining student–faculty communication.
+
+#### 🔹 [Code Combat Quiz](https://github.com/ganesh-alla/code-combat-quiz)
+> Real-time quiz app for 200+ participants built with Next.js and Ant Design.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ganesh-alla&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-alla&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-alla&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Achievements & Badges
+
+<p align="center">
+  <a href="https://github.com/ganesh-alla?tab=followers">
+    <img src="https://img.shields.io/github/followers/ganesh-alla?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/ganesh-alla?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ganesh-alla?label=Stars&style=social" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ganesh-alla&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-alla" />
+</p>
+
+---
+
+### 💬 Fun Fact
+
+> “Code, Create, and Contribute — because innovation begins with curiosity.” 🚀
